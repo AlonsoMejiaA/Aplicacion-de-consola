@@ -1,0 +1,11 @@
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\bin\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.deps.json
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\bin\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.runtimeconfig.json
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\bin\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.runtimeconfig.dev.json
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\bin\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.dll
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\bin\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.pdb
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\obj\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.csprojAssemblyReference.cache
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\obj\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.csproj.CoreCompileInputs.cache
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\obj\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.AssemblyInfoInputs.cache
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\obj\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.AssemblyInfo.cs
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\obj\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.dll
+C:\Users\19h1\source\repos\Parte 2 Parcial Scripting\Parte 2 Parcial Scripting\obj\Debug\netcoreapp2.1\Parte 2 Parcial Scripting.pdb
